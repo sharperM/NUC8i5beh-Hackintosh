@@ -1,7 +1,7 @@
 # NUC8i5beh-Hackintosh
 
 nuc8i5的自带蓝牙，wifi。能用的版本
-mac os 13.4 (22F66)
+mac os 13.4 (22F66) Ventura‌‌‌‌ 
 
 # 适合什么都没有改，原来的硬件wifi，蓝牙能用。 （只是能用，还有其他问题。连接不了蓝牙键盘，还有mac 和 iphone设备交互的用到的蓝牙功能）
 
